@@ -1,0 +1,24 @@
+.container-recipe {
+  margin-top: 5px;
+  color: black;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  height: 25%;
+  background-color: lightgray;
+}
+
+.content {
+  height: 100%;
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.content p {
+  padding-left: 20px;
+}
+
+.image-style {
+  height: 70%;
+}

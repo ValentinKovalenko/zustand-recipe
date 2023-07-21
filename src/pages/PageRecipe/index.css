@@ -1,0 +1,19 @@
+.wrap {
+  padding: 30px;
+  display: block;
+  text-align: center;
+}
+
+.image {
+  height: 100px;
+}
+
+.ingredients {
+  display: flex;
+  justify-content: center;
+  background-color: lightgray;
+}
+
+.ingredients-content {
+  margin: 10px;
+}
